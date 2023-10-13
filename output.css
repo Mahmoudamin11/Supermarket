@@ -859,8 +859,8 @@ video {
   width: 60%;
 }
 
-.w-36 {
-  width: 9rem;
+.w-40 {
+  width: 10rem;
 }
 
 .w-5 {
@@ -877,10 +877,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-40 {
-  width: 10rem;
 }
 
 .-translate-x-1\/2 {
@@ -1078,9 +1074,14 @@ video {
   padding-bottom: 0.5rem;
 }
 
-.py-34 {
-  padding-top: 136px;
-  padding-bottom: 136px;
+.py-52 {
+  padding-top: 13rem;
+  padding-bottom: 13rem;
+}
+
+.py-48 {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
 }
 
 .pb-0 {
@@ -1330,28 +1331,23 @@ video {
   transition-duration: 500ms;
 }
 
-.before\:content-\[\'Adidas_T-shirt\'\]::before {
-  --tw-content: 'Adidas T-shirt';
+.before\:content-\[\'2022_ball\'\]::before {
+  --tw-content: '2022 ball';
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Adidas_shorts\'\]::before {
-  --tw-content: 'Adidas shorts';
+.before\:content-\[\'Adidas\'\]::before {
+  --tw-content: 'Adidas';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Airpods\'\]::before {
+  --tw-content: 'Airpods';
   content: var(--tw-content);
 }
 
 .before\:content-\[\'Apple\'\]::before {
   --tw-content: 'Apple';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Apple_airpods\'\]::before {
-  --tw-content: 'Apple airpods';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Apple_watch_SE\'\]::before {
-  --tw-content: 'Apple watch SE';
   content: var(--tw-content);
 }
 
@@ -1362,11 +1358,6 @@ video {
 
 .before\:content-\[\'Base_ball\'\]::before {
   --tw-content: 'Base ball';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Base_ball_racket\'\]::before {
-  --tw-content: 'Base ball racket';
   content: var(--tw-content);
 }
 
@@ -1400,8 +1391,13 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Converse_Shoes\'\]::before {
-  --tw-content: 'Converse Shoes';
+.before\:content-\[\'Controller\'\]::before {
+  --tw-content: 'Controller';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Converse\'\]::before {
+  --tw-content: 'Converse';
   content: var(--tw-content);
 }
 
@@ -1425,11 +1421,6 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Home_slippers\'\]::before {
-  --tw-content: 'Home slippers';
-  content: var(--tw-content);
-}
-
 .before\:content-\[\'Home_socks\'\]::before {
   --tw-content: 'Home socks';
   content: var(--tw-content);
@@ -1445,8 +1436,8 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Iphone_15_cover\'\]::before {
-  --tw-content: 'Iphone 15 cover';
+.before\:content-\[\'Iphone_cover\'\]::before {
+  --tw-content: 'Iphone cover';
   content: var(--tw-content);
 }
 
@@ -1460,8 +1451,8 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'LG_Television\'\]::before {
-  --tw-content: 'LG Television';
+.before\:content-\[\'LG_TV\'\]::before {
+  --tw-content: 'LG TV';
   content: var(--tw-content);
 }
 
@@ -1490,11 +1481,6 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'PS_5_Controller\'\]::before {
-  --tw-content: 'PS 5 Controller';
-  content: var(--tw-content);
-}
-
 .before\:content-\[\'Pants\'\]::before {
   --tw-content: 'Pants';
   content: var(--tw-content);
@@ -1505,6 +1491,11 @@ video {
   content: var(--tw-content);
 }
 
+.before\:content-\[\'Racket\'\]::before {
+  --tw-content: 'Racket';
+  content: var(--tw-content);
+}
+
 .before\:content-\[\'Raw_Chicken\'\]::before {
   --tw-content: 'Raw Chicken';
   content: var(--tw-content);
@@ -1512,6 +1503,21 @@ video {
 
 .before\:content-\[\'Raw_Meat\'\]::before {
   --tw-content: 'Raw Meat';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'SE_Watch\'\]::before {
+  --tw-content: 'SE Watch';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Shorts\'\]::before {
+  --tw-content: 'Shorts';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Slippers\'\]::before {
+  --tw-content: 'Slippers';
   content: var(--tw-content);
 }
 
@@ -1555,98 +1561,13 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'World_cup_ball\'\]::before {
-  --tw-content: 'World cup ball';
-  content: var(--tw-content);
-}
-
 .before\:content-\[\'Yellow_shirt\'\]::before {
   --tw-content: 'Yellow shirt';
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Zamalek_T-Shirt\'\]::before {
-  --tw-content: 'Zamalek T-Shirt';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Converse\'\]::before {
-  --tw-content: 'Converse';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Slippers\'\]::before {
-  --tw-content: 'Slippers';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'PS5_Controller\'\]::before {
-  --tw-content: 'PS5 Controller';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Controller\'\]::before {
-  --tw-content: 'Controller';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'LG_TV\'\]::before {
-  --tw-content: 'LG TV';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Airpods\'\]::before {
-  --tw-content: 'Airpods';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Iphone_cover\'\]::before {
-  --tw-content: 'Iphone cover';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'SE_Watch\'\]::before {
-  --tw-content: 'SE Watch';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'2023_ball\'\]::before {
-  --tw-content: '2023 ball';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'2022_ball\'\]::before {
-  --tw-content: '2022 ball';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'2022_cup_ball\'\]::before {
-  --tw-content: '2022 cup ball';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Baseball_racket\'\]::before {
-  --tw-content: 'Baseball racket';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Racket\'\]::before {
-  --tw-content: 'Racket';
-  content: var(--tw-content);
-}
-
 .before\:content-\[\'Zamalek\'\]::before {
   --tw-content: 'Zamalek';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Adidas\'\]::before {
-  --tw-content: 'Adidas';
-  content: var(--tw-content);
-}
-
-.before\:content-\[\'Shorts\'\]::before {
-  --tw-content: 'Shorts';
   content: var(--tw-content);
 }
 
@@ -1821,6 +1742,11 @@ video {
 
   .sm\:p-5 {
     padding: 1.25rem;
+  }
+
+  .sm\:py-34 {
+    padding-top: 136px;
+    padding-bottom: 136px;
   }
 
   .sm\:text-9xl {
