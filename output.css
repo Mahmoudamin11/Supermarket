@@ -791,10 +791,6 @@ video {
   height: 0.75rem;
 }
 
-.h-4 {
-  height: 1rem;
-}
-
 .h-44 {
   height: 11rem;
 }
@@ -867,10 +863,6 @@ video {
   width: 9rem;
 }
 
-.w-4 {
-  width: 1rem;
-}
-
 .w-5 {
   width: 1.25rem;
 }
@@ -885,6 +877,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-40 {
+  width: 10rem;
 }
 
 .-translate-x-1\/2 {
@@ -1389,6 +1385,11 @@ video {
   content: var(--tw-content);
 }
 
+.before\:content-\[\'Blue_shirt\'\]::before {
+  --tw-content: 'Blue shirt';
+  content: var(--tw-content);
+}
+
 .before\:content-\[\'Canned_tuna\'\]::before {
   --tw-content: 'Canned tuna';
   content: var(--tw-content);
@@ -1559,8 +1560,8 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'Yellow_T-shirt\'\]::before {
-  --tw-content: 'Yellow T-shirt';
+.before\:content-\[\'Yellow_shirt\'\]::before {
+  --tw-content: 'Yellow shirt';
   content: var(--tw-content);
 }
 
@@ -1569,8 +1570,83 @@ video {
   content: var(--tw-content);
 }
 
-.before\:content-\[\'psColor_T-shirt\'\]::before {
-  --tw-content: 'psColor T-shirt';
+.before\:content-\[\'Converse\'\]::before {
+  --tw-content: 'Converse';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Slippers\'\]::before {
+  --tw-content: 'Slippers';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'PS5_Controller\'\]::before {
+  --tw-content: 'PS5 Controller';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Controller\'\]::before {
+  --tw-content: 'Controller';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'LG_TV\'\]::before {
+  --tw-content: 'LG TV';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Airpods\'\]::before {
+  --tw-content: 'Airpods';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Iphone_cover\'\]::before {
+  --tw-content: 'Iphone cover';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'SE_Watch\'\]::before {
+  --tw-content: 'SE Watch';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'2023_ball\'\]::before {
+  --tw-content: '2023 ball';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'2022_ball\'\]::before {
+  --tw-content: '2022 ball';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'2022_cup_ball\'\]::before {
+  --tw-content: '2022 cup ball';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Baseball_racket\'\]::before {
+  --tw-content: 'Baseball racket';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Racket\'\]::before {
+  --tw-content: 'Racket';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Zamalek\'\]::before {
+  --tw-content: 'Zamalek';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Adidas\'\]::before {
+  --tw-content: 'Adidas';
+  content: var(--tw-content);
+}
+
+.before\:content-\[\'Shorts\'\]::before {
+  --tw-content: 'Shorts';
   content: var(--tw-content);
 }
 
